@@ -1,7 +1,7 @@
 package com.example.spring_jpa_frontend_backend.Service;
 
-import com.example.simple_spring_frontend_and_backend.Model.User;
-import com.example.simple_spring_frontend_and_backend.Repository.UserRepository;
+import com.example.spring_jpa_frontend_backend.Model.User;
+import com.example.spring_jpa_frontend_backend.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

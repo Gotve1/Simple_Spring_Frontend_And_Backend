@@ -1,7 +1,7 @@
 package com.example.spring_jpa_frontend_backend.Controller;
 
-import com.example.simple_spring_frontend_and_backend.Model.User;
-import com.example.simple_spring_frontend_and_backend.Service.UserService;
+import com.example.spring_jpa_frontend_backend.Model.User;
+import com.example.spring_jpa_frontend_backend.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.ResponseEntity;
